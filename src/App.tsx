@@ -31,7 +31,7 @@ export default function App() {
   };
 
   return (
-    <div className="h-screen  overflow-hidden bg-pink-300 w-screen bg-black flex flex-col items-center justify-center text-white">
+    <div className="min-h-screen  bg-pink-300 w-screen bg-black flex flex-col items-center justify-center text-white">
       <h1 className="text-2xl font-bold  text-center">
         Do you wanna live your whole life with me? ❤️
       </h1>
